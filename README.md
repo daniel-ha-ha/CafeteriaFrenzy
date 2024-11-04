@@ -1,7 +1,6 @@
 # CafeteriaFrenzy
  Controls:
  A/D or left/right arrows to move left and right
- 
  Space bar to throw food
 
  Try to get as many points within the 45 second timer
